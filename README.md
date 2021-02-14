@@ -7,7 +7,7 @@
       <meta name="author" content="Zorica Nikolić">
       <title>CSS Responsive Grid Gallery</title>
       <style>
-	      [placeholder-image](https://user-images.githubusercontent.com/75206744/107885373-3b421d00-6efa-11eb-9a1c-2d6f5acaa8c4.png)
+	     @input url[placeholder-image](https://user-images.githubusercontent.com/75206744/107885373-3b421d00-6efa-11eb-9a1c-2d6f5acaa8c4.png)
             body{
                   margin: 0 auto;
                   font-family: sans-serif;
