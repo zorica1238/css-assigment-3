@@ -152,16 +152,16 @@
       <h1>Gallery Assignment - Hover Edition</h1>
 <hr>
       <div class="gridbox">
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
-            <div class="box"><img src="placeholder-image.png" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
+            <div class="box"><img src="placeholder-image" alt="IMAGE"><p>Image Title</p></div>
         </div>
         <hr>
 </header>
